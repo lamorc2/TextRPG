@@ -8,7 +8,7 @@ Project Overview:
 	 -Practice **Object Oriented Design vs. Data Driven Design**
 	 -Strengthen **C++ Architecture, memory management, and system design** skills.
 	 -Explore **Inventory Systems, Turn-Based Combat Structure, Save/Load File Handling**
-	 -Learn **ECS-Design, 
+
 
 	 This was almost entirely self-taught/researched project, and all code was made by me. 
 

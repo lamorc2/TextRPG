@@ -1,0 +1,26 @@
+Prologue:
+
+Enter party, magical punch makes everyone disappear.
+Go through
+
+Act 1: 
+
+Meet *Greenmoss the Verdant* the herb wizard. Combat tutorial + Exposition
+A magical, mysterious "substance" has been creeping across the land, turning people into shadows. Shadows become powerful, but wrathful and angry.
+The shadow slowly eats away at them, before one day they just disappear, and their shadow spreads. 
+Greenmoss takes a strong puff and fades away after telling you to head to town
+Goblin Attack
+head to town
+
+Act 2: 
+Open to Town square. Pub, Shop
+NPCs??
+
+Pub: Couple of dialogue options, health restore, mini dungeon, exposition NPC
+mini dungeon clear reward : free health restore at pub
+exposition: 
+
+
+shop: upon entry, trigger combat 
+
+
